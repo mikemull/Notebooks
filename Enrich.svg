@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="41.529cm" height="16.714cm" viewBox="2.921 1.136 44.450 17.850"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="3.090" y="12.205" width="17.150" height="5.450" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<line x1="3.090" y1="14.930" x2="20.240" y2="14.930" stroke="#7F7F7F" stroke-width="0.100" />
+<line x1="11.665" y1="12.205" x2="11.665" y2="17.655" stroke="#7F7F7F" stroke-width="0.100" />
+<rect x="3.090" y="12.205" width="17.150" height="5.450" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="7.378" y="13.568"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Name</text>
+<text x="16.082" y="13.718"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Address</text>
+<text x="7.378" y="16.293"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Fred Jones</text>
+<text x="15.953" y="16.293"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+123 1st Ave</text>
+<rect x="3.040" y="2.305" width="36.400" height="5.600" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<line x1="3.040" y1="5.105" x2="39.440" y2="5.105" stroke="#7F7F7F" stroke-width="0.100" />
+<line x1="7.084" y1="2.305" x2="7.084" y2="7.905" stroke="#7F7F7F" stroke-width="0.100" />
+<line x1="11.129" y1="2.305" x2="11.129" y2="7.905" stroke="#7F7F7F" stroke-width="0.100" />
+<line x1="15.173" y1="2.305" x2="15.173" y2="7.905" stroke="#7F7F7F" stroke-width="0.100" />
+<line x1="19.218" y1="2.305" x2="19.218" y2="7.905" stroke="#7F7F7F" stroke-width="0.100" />
+<line x1="23.262" y1="2.305" x2="23.262" y2="7.905" stroke="#7F7F7F" stroke-width="0.100" />
+<line x1="27.307" y1="2.305" x2="27.307" y2="7.905" stroke="#7F7F7F" stroke-width="0.100" />
+<line x1="31.351" y1="2.305" x2="31.351" y2="7.905" stroke="#7F7F7F" stroke-width="0.100" />
+<line x1="35.396" y1="2.305" x2="35.396" y2="7.905" stroke="#7F7F7F" stroke-width="0.100" />
+<rect x="3.040" y="2.305" width="36.400" height="5.600" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="5.062" y="3.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+First Name</text>
+<text x="9.107" y="3.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Last Name</text>
+<text x="13.151" y="3.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+MI</text>
+<text x="17.196" y="3.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Street</text>
+<text x="21.240" y="3.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+City</text>
+<text x="25.284" y="3.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+State</text>
+<text x="29.329" y="3.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+ZIP</text>
+<text x="5.062" y="6.505"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Frederick</text>
+<text x="9.107" y="6.505"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Jones</text>
+<text x="13.151" y="6.505"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+K</text>
+<text x="17.196" y="6.505"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+123 1st Ave</text>
+<text x="21.240" y="6.505"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+NY</text>
+<text x="25.284" y="6.505"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+NY</text>
+<text x="29.329" y="6.505"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+01010</text>
+<text x="37.418" y="6.505"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+73456</text>
+<text x="37.418" y="3.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+ID</text>
+<text x="33.373" y="3.705"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Firm</text>
+<text x="33.373" y="6.505"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Fidelity</text>
+<text x="2.940" y="1.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Integrated Data</text>
+<text x="3.100" y="11.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Client Data</text>
+<line x1="20.240" y1="14.930" x2="24.813" y2="14.903" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="25.188,14.901 24.690,15.154 24.813,14.903 24.687,14.654 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="25.188,14.901 24.690,15.154 24.813,14.903 24.687,14.654 "/>
+<rect x="34.050" y="12.000" width="10.350" height="5.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="34.050" y="12.000" width="10.350" height="5.800" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="39.225" y="14.900"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Encriched Data</text>
+<line x1="27.950" y1="8.150" x2="27.890" y2="13.513" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="27.886,13.888 27.642,13.385 27.890,13.513 28.142,13.391 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="27.886,13.888 27.642,13.385 27.890,13.513 28.142,13.391 "/>
+<rect x="26.200" y="14.000" width="3.370" height="1.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<path stroke="none" fill="#FFFFFF" d ="M 26.200,14.000 A 0.900,0.900 0 0,0 25.300,14.900 "/>
+<path stroke="none" fill="#FFFFFF" d ="M 30.470,14.900 A 0.900,0.900 0 0,0 29.570,14.000 "/>
+<rect x="25.300" y="14.900" width="5.170" height="0.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<path stroke="none" fill="#FFFFFF" d ="M 25.300,14.900 A 0.900,0.900 0 0,0 26.200,15.800 "/>
+<path stroke="none" fill="#FFFFFF" d ="M 29.570,15.800 A 0.900,0.900 0 0,0 30.470,14.900 "/>
+<line x1="26.200" y1="14.000" x2="29.570" y2="14.000" stroke="#000000" stroke-width="0.100" />
+<line x1="26.200" y1="15.800" x2="29.570" y2="15.800" stroke="#000000" stroke-width="0.100" />
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 26.200,14.000 A 0.900,0.900 0 0,0 25.300,14.900 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 30.470,14.900 A 0.900,0.900 0 0,0 29.570,14.000 "/>
+<line x1="25.300" y1="14.900" x2="25.300" y2="14.900" stroke="#000000" stroke-width="0.100" />
+<line x1="30.470" y1="14.900" x2="30.470" y2="14.900" stroke="#000000" stroke-width="0.100" />
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 25.300,14.900 A 0.900,0.900 0 0,0 26.200,15.800 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M 29.570,15.800 A 0.900,0.900 0 0,0 30.470,14.900 "/>
+<text x="27.885" y="15.095"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Match/Merge</text>
+<line x1="30.470" y1="14.900" x2="33.563" y2="14.900" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="33.938,14.900 33.438,15.150 33.563,14.900 33.438,14.650 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="33.938,14.900 33.438,15.150 33.563,14.900 33.438,14.650 "/>
+</svg>
