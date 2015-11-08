@@ -109,15 +109,6 @@ def em_oge(df_in):
     return mh, uh, ph
 
 
-def mp(gamma, mh, uh):
-    return reduce(operator.mul, (mh[i] ** g * (1 - mh[i]) ** (1 - g) for i,g in enumerate(gamma)))
-
-def up(gamma, mh, uh):
-    return reduce(operator.mul, (uh[i] ** g * (1 - uh[i]) ** (1 - g) for i,g in enumerate(gamma)))
-
-def log_score(gamma, mh, uh):
-    return sum([np.log2(mh[i]/uh[i]) if g==1 else np.log2((1-mh[i])/(1-uh[i])) for i,g in enumerate(gamma)])
-
 def scores(mh, uh, p):
     df_scores = pd.DataFrame(data=list(itertools.product([1,0], repeat=3)),
                  columns=['name', 'zip', 'street num'])
