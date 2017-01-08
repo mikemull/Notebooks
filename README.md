@@ -5,5 +5,6 @@ Ipython notebooks on various topics
 - __Matching.ipynb__ - Unfinished notebook on data matching techniques
 - __lsh.ipynb__ - Notebook on Locality-Sensitive Hashing
 - __Kalman-Slides-PyDataChicago2016.ipynb__ - Notebook from PyData Chicago 2016 on Kalman Filtering and State-Space Models
-- __hamilton__ - Notebooks that reproduce example and diagrams from James Hamilton's _Time Series Analysis_
+- __hamilton__ - Notebooks that reproduce examples and diagrams from James Hamilton's _Time Series Analysis_
+- __Broder97.ipynb__ - My PapersWeLove presentation on Broder's _On the Resemblance and Containment of Documents_
 
