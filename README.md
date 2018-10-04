@@ -7,4 +7,5 @@ Ipython notebooks on various topics
 - __Kalman-Slides-PyDataChicago2016.ipynb__ - Notebook from PyData Chicago 2016 on Kalman Filtering and State-Space Models
 - __hamilton__ - Notebooks that reproduce examples and diagrams from James Hamilton's _Time Series Analysis_
 - __Broder97.ipynb__ - My PapersWeLove presentation on Broder's _On the Resemblance and Containment of Documents_
+- __hyperloglog.ipynb__ - Another PapersWeLove presentation on [HyperLogLog In Practice: Algorithmic Engineering of a State of the Art Cardinality Estimation Algorithm](https://research.google.com/pubs/pub40671.html)
 
